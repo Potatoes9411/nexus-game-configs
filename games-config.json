@@ -713,7 +713,15 @@
       "baseUrl": "https://raw.githubusercontent.com/sushi-dev55/sushitools-games-repo/refs/heads/main/{appid}.zip",
       "type": "direct",
       "headers": {},
-      "enabled": false
+      "enabled": true
+    },
+    {
+      "id": "api-1776060809260",
+      "name": "PotatoAPI",
+      "baseUrl": "https://raw.githubusercontent.com/potatoes9411/potatoesgameapi/refs/heads/main/{appid}.zip",
+      "type": "direct",
+      "headers": {},
+      "enabled": true
     }
   ]
 }
