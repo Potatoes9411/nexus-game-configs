@@ -722,6 +722,14 @@
       "type": "direct",
       "headers": {},
       "enabled": true
+    },
+    {
+      "id": "api-1776060871741",
+      "name": "Potatoes' Ryuu",
+      "baseUrl": "https://generator.ryuu.lol/secure_download?appid={appid}&auth_code=RYUUMANIFEST8lbwai",
+      "type": "api",
+      "headers": {},
+      "enabled": true
     }
   ]
 }
